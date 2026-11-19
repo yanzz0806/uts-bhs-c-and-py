@@ -3,7 +3,7 @@ Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar /
 Koding & Kecerdasan Artifisial kelas X PPLG. Aplikasi ini dibuat dalam
 dua versi bahasa pemrograman, yaitu **C** dan **Python**.
 ## Identitas Siswa
-* **Nama Lengkap:** [Isi Nama Lengkap]
+* **Nama Lengkap:** [Ardiyansah Saputra]
 * **Kelas:** X PPLG
 * **No. Absen:** [03]
 ## Deskripsi Aplikasi
